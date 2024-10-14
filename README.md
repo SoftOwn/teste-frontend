@@ -11,13 +11,19 @@ O objetivo deste teste é avaliar suas habilidades em front-end, utilizando Type
 * Criatividade
 
 ## Requisitos de Sistema
-* Utilizar TypeScript no desenvolvimento.
+* Utilizar TypeScript | JavaScript no desenvolvimento.
 * Frameworks permitidos: React, Next.js, Vite ou similar.
 * Utilizar Tailwind CSS para estilização. Caso não tenha familiaridade com Tailwind, é permitido o uso de CSS tradicional.
+* Responsividade: A landing page deve ser responsiva, garantindo uma boa visualização em dispositivos móveis e desktops.
 
 ## Diferenciais (não obrigatórios)
+* Uso de TypeScript para garantir a segurança de tipos e a robustez do código.
 * Implementação de animações que contribuam para a interação e fluidez da página.
 * Foco na experiência do usuário (UX) para garantir uma navegação agradável e eficiente.
+
+## Exemplos de Implementações Extras:
+* Animações de transição ao rolar a página.
+* Seções que aparecem gradualmente ao rolar a página.
 
 ## Layout e Recursos:
 
@@ -29,6 +35,8 @@ O candidato é livre a usar as técnicas de desenvolvimento que achar melhor, de
 ## Prazo
 O candidato deverá enviar o link do repositório onde o código foi hospedado, como por exemplo no próprio GitHub.
 O prazo para conclusão do teste é de sete dias com data de entrega prevista para o dia 21/10/2024
+
+### Envio do Projeto: O link do repositório deve ser enviado para o e-mail: `contato@softownsolutions.com`.
 
 ## bolsa-auxílio
 
